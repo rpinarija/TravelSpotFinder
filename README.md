@@ -11,6 +11,10 @@ TravelSpotFinder is an intelligent travel recommendation system that helps users
 - **Interactive Maps**: View locations on interactive maps
 - **AI-Powered Matching**: Uses advanced NLP and semantic similarity to match your preferences
 
+## API Used
+
+This project utilizes the [OpenTripMap API](https://dev.opentripmap.org/product) to fetch data about travel destinations, including descriptions, ratings, and location details.
+
 ## Installation
 
 1. Clone this repository:
