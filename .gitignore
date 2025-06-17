@@ -1,0 +1,48 @@
+# Python related
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.env
+
+# Virtual environments
+venv/
+myvenv/
+.env/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/
+
+# Environment variables
+.env
+
+# Cache
+.cache/
+
+# Coverage reports
+.coverage
+*.cover
+coverage.xml
+
+# Test output
+nosetests.xml
+junit.xml
+test-results.xml
+
+# Build
+build/
+dist/
+*.egg-info/
